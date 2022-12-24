@@ -1,5 +1,7 @@
 # UE4-GraphicsRHIManager
 
+This repository has been archived. Link to new version: https://github.com/Cesio137/GConfigManager
+
 Plugin to toggle between DX11, DX12 and VULKAN in game.
 
 Warning: It's work only for windows plataform. This plugin was compiled for UE 4.27 but can be recompiled for previous version of the engine.
